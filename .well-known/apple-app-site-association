@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "37C97M4FRW.com.stephenbrown.GolfLink",
+        "paths": [
+          "/fourball/*",
+          "/competition/*"
+        ]
+      }
+    ]
+  }
+}
